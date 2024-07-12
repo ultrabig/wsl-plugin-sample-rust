@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "wsl-plugin-sample",
+    "wsl-plugin-api-sys",
+]
+
+resolver = "2"

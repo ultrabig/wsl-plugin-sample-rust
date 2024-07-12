@@ -1,0 +1,2 @@
+# Don't bundle the header beacause its license is unknown
+WslPluginAPi.h
